@@ -3,3 +3,4 @@ version: "1"
 data:
   services:
     - name: wknd-compute
+    - name: personalization
