@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--helix-wknd--phornig.hlx.page/
-- Live: https://main--helix-wknd--phornig.hlx.live/
+- Preview: https://main--helix-wknd--phornig.aem.page/
+- Live: https://main--helix-wknd--phornig.aem.live/
 
 ## Installation
 
